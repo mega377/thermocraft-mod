@@ -1,0 +1,20 @@
+[
+{
+  "modid": "TCAlpha",
+  "name": "Thermocraft Alpha",
+  "description": "Temperature, armor repair, boats and more!",
+  "version": "0.01",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "mega377",
+  ],
+  "credits": "By mega377",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
